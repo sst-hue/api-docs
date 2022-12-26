@@ -8,7 +8,7 @@
 
 **`Network Status`**
 
-usage:双端
+双端
 
 **`Example`**
 
